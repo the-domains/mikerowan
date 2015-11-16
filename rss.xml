@@ -4,7 +4,7 @@
         <description><![CDATA[mikerowan]]></description>
         <link>https://thegrid.ai/mikerowan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 07:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 08:02:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mikerowan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mikerowan/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">10705903-fd9c-4149-9199-19c10e0d6e84</guid>
             <pubDate>Mon, 16 Nov 2015 07:39:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test Post]]></title>
-            <description><![CDATA[<h1>Test Post</h1>]]></description>
-            <link>https://thegrid.ai/mikerowan/test-post/index.html</link>
-            <guid isPermaLink="false">3f486350-7939-4e3a-b52b-99ad4ba332ec</guid>
-            <pubDate>Mon, 16 Nov 2015 07:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
