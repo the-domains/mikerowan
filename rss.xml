@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mikerowan]]></title>
         <description><![CDATA[mikerowan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikerowan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 07:37:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 07:38:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikerowan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<h1>Test Post</h1>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/mikerowan/test-post/index.html</link>
             <guid isPermaLink="false">3f486350-7939-4e3a-b52b-99ad4ba332ec</guid>
-            <pubDate>Mon, 16 Nov 2015 07:37:28 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2015 07:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
